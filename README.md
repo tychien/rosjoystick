@@ -16,3 +16,4 @@ something about rosarduino car and rosjoystick
      great ref found :"https://github.com/iscumd/isc_joy/blob/master/src/joystick.cpp"
   
   Next step : transmmit the messages from joystick via rosmaster to arduino!!
+  ref: "http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup"

@@ -9,4 +9,4 @@ something about rosarduino car and rosjoystick
   ```
   then it'll do the trick. 
 
-1. Cannot CMake -> just take a look at this tutorial: "http://wiki.ros.org/ROS/Tutorials/BuildingPackages" 
+  2. Cannot CMake -> just take a look at this tutorial: "http://wiki.ros.org/ROS/Tutorials/BuildingPackages" 

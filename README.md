@@ -1,7 +1,9 @@
 # rosjoystick
 something about rosarduino car and rosjoystick
 
-02152020 meet some problem 
+Studying Journal
+
+Feb 15 2020  
   1. make: warning: Clock skew detected. Your build may be incomplete. ->  
   ```bash 
   sudo apt install ntp

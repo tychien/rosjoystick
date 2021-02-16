@@ -10,6 +10,7 @@ something about rosarduino car and rosjoystick
   1. Wrote JoyListener "https://github.com/tychien/rosjoystick/blob/main/joylistener.cpp".   
      great ref found :"https://github.com/iscumd/isc_joy/blob/master/src/joystick.cpp"
   1. Subscriber to Joy topic in ROS "https://stackoverflow.com/questions/62799181/subscriber-to-joy-topic-in-ros"
+  1. Installation and use of Logitech F710 wireless controller under ROS : ""
   
   
   Next step : transmmit the messages from joystick via rosmaster to arduino!!

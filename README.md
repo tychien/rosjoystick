@@ -20,3 +20,4 @@ something about rosarduino car and rosjoystick
   1. Finished Installing Arduino IDE on board. 
   
   Next : Hello World for rosserial_arduino: "http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup"
+  What is typedef & define in C++

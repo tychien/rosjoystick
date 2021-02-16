@@ -12,6 +12,7 @@ something about rosarduino car and rosjoystick
   
   Next step : transmmit the messages from joystick via rosmaster to arduino!!
   ref: "http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup"
+  cool things about joysticks code : "https://github.com/iscumd/isc_joy/blob/master/src/joystick.cpp#L33"
 
 ## Feb 16 2021
   1. To install a new .tar.gz file, `tar -xzf archive-name.tar.gz; cd archive-name; ./configure; make; sudo make install`

@@ -3,7 +3,7 @@ something about rosarduino car and rosjoystick
 
 # Studying Journal
 
-## Feb 15 2020  
+## Feb 15 2021  
   1. make: warning: Clock skew detected. Your build may be incomplete. ->  
   ```bash 
   sudo apt install ntp
@@ -17,3 +17,7 @@ something about rosarduino car and rosjoystick
   
   Next step : transmmit the messages from joystick via rosmaster to arduino!!
   ref: "http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup"
+
+## Feb 16 2021
+  1. CMake version is too old for compiling the "rosserial", follow those steps would help:"https://askubuntu.com/questions/829310/how-to-upgrade-cmake-in-ubuntu"
+  1. 

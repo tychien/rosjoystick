@@ -24,4 +24,4 @@ something about rosarduino car and rosjoystick
   1. Next : Hello World for rosserial_arduino: "http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup"
   1. What is typedef & define in C++
   1. Video about rosserial_arduino "https://www.youtube.com/watch?v=MOBSb6cA7kY"
-  
+  1. A handy ros tool to test our subscriber code like uPokeDB in MOOS-IvP : "https://ithelp.ithome.com.tw/articles/10239902" 

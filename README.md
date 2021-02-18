@@ -27,3 +27,5 @@ something about rosarduino car and rosjoystick
   1. Video about rosserial_arduino "https://www.youtube.com/watch?v=MOBSb6cA7kY"
   1. A handy ros tool to test our subscriber code like uPokeDB in MOOS-IvP : "https://ithelp.ithome.com.tw/articles/10239902" `$ rostopic pub /topic_name [msg_type] [tab]`
   
+## Feb 18 2021
+  1. rosserial_arduino "helloworld" can't be compiled with error messages: #include <cstring> cannot be found. -> in Arduino/libraries/ros_lib/ros/ msg.h, replace cstring by string.h and all the std::memcpy to just memcpy

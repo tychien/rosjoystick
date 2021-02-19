@@ -34,7 +34,13 @@ something about rosarduino car and rosjoystick
 ## Feb 19 2021
   1. finishing the arduino code 1.0 "https://github.com/tychien/rosjoystick/blob/main/RcCar_1.0.ino". The RC Car is now able to be driven by the F710 Gamepad.
   1. ip: 192.168.50.225
-  1. `roscore`, `rosrun joy joy_node`, `rosrun rosserial_python serial_node.py /dev/ttyACM0`, `rostopic echo /joy`
+  1. type in each line with new terminal window
+  ```bash
+  roscore;
+  rosrun joy joy_node;
+  rosrun rosserial_python serial_node.py /dev/ttyACM0;
+  rostopic echo /joy
+  ```
   
   Next Step: make the DC motor output with analog signal.
   ref:https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/

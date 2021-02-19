@@ -38,5 +38,6 @@ something about rosarduino car and rosjoystick
   Next Step: make the DC motor output with analog signal.
   ref:https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
   
+  or Connect the WebCam to the Raspberry Pi
   
 ## Feb 20 2021

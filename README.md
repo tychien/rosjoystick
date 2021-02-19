@@ -36,9 +36,9 @@ something about rosarduino car and rosjoystick
   1. ip: 192.168.50.225
   1. type in each line with new terminal window
   ```bash
-  roscore;
-  rosrun joy joy_node;
-  rosrun rosserial_python serial_node.py /dev/ttyACM0;
+  roscore
+  rosrun joy joy_node
+  rosrun rosserial_python serial_node.py /dev/ttyACM0
   rostopic echo /joy
   ```
   

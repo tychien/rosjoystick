@@ -45,9 +45,8 @@ something about rosarduino car and rosjoystick
   Next Step: make the DC motor output with analog signal.
   ref:https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
   
-  or Connect the WebCam to the Raspberry Pi
   
 ## Feb 20 2021
    1. finished pwm signal feeding to the dc motor. "https://github.com/tychien/rosjoystick/blob/main/RcCar_1.1.ino"
    1. remember to connect the ground from l298n to arduino
-  
+  Next Step: Connect the WebCam to the Raspberry Pi

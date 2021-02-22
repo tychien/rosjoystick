@@ -30,6 +30,7 @@ something about rosarduino car and rosjoystick
 ## Feb 18 2021
   1. rosserial_arduino "helloworld" can't be compiled with error messages: #include <cstring> cannot be found. -> in Arduino/libraries/ros_lib/ros/ msg.h, replace cstring by string.h and all the std::memcpy to just memcpy
   1. finishing the rosserial and arduino connection.
+  1. Ctrl-A then type :quit to quit the session of "screen" terminal. 
 
 ## Feb 19 2021
   1. finishing the arduino code 1.0 "https://github.com/tychien/rosjoystick/blob/main/RcCar_1.0.ino". The RC Car is now able to be driven by the F710 Gamepad.

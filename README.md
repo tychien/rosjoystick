@@ -51,3 +51,6 @@ something about rosarduino car and rosjoystick
    1. remember to connect the ground from l298n to arduino
   
   Next Step: Connect the WebCam to the Raspberry Pi
+  
+## Feb 21 2021
+   1. Replace 18650 Li-battery to 9V 

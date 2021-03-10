@@ -55,3 +55,5 @@ something about rosarduino car and rosjoystick
   
 ## Feb 21 2021
    1. Replace 18650 Li-battery to 9V 
+## Mar 10 2021
+   1. chatting on two machines successfully. "https://stackoverflow.com/questions/55316801/ros-communication-from-pc-to-raspberrypi"
